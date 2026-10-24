@@ -1,0 +1,16 @@
+Feature,Importance
+Customer age,0.25633696507542736
+Number of bank products,0.16195020155986875
+Account balance,0.08817188706128419
+Age-Tenure Interaction,0.07642946755638758
+Balance-to-Salary Ratio,0.06661555768557108
+Estimated annual salary,0.06630506805627528
+Customer credit score,0.06500578566043512
+Products per Tenure,0.049528070787011415
+Activity indicat or Member,0.04632828293240019
+Geography Germany,0.03732356071647205
+Years with the bankTenure,0.03336203575893728
+Gender Male,0.01993180310581514
+Geography France,0.01354539012774917
+Credit card ownership,0.009678685333076477
+Geography_Spain,0.00948723858328903
